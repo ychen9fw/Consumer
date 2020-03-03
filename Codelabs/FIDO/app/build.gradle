@@ -13,7 +13,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.huawei.hms.fido.sample.bioauthn"
+        applicationId "com.hmsiap.codelab.fido.huawei"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

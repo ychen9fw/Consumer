@@ -14,7 +14,7 @@
    limitations under the License.
  */
 
-package com.huawei.hms.fido.sample.bioauthn;
+package com.hmsiap.codelab.fido.huawei;
 
 import android.Manifest;
 import android.app.AlertDialog;

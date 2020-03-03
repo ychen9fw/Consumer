@@ -1,11 +1,27 @@
 {
-	"client":{
-		"cp_id":"260086000000043952",
-		"product_id":"9105385871708263967",
-		"client_id":"238769392530228224",
-		"client_secret":"71A2714D1153BFD75A38E17C67260309A99C28022BACADE924C88FBB68197C0C",
-		"app_id":"101414561",
-		"package_name":"com.huawei.hms.fido.sample.bioauthn"
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
 	},
+	"client":{
+		"cp_id":"890001000000000755",
+		"product_id":"9105385871708514582",
+		"client_id":"309750786454193280",
+		"client_secret":"BA6DD3FC1B42677B870F18F43B709B42E55A5ECC778B2F285FDC48627787BB18",
+		"app_id":"101800633",
+		"package_name":"com.hmsiap.codelab.fido.huawei",
+		"api_key":"CV6FOTmTU/9vFCAzorfD28M3tCZ+bsyxTZSOYWay7hH64e8CysLTwvAJy792dstFJQKyYT238mvRv7/QUmj0iq+6iRrl"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
 	"configuration_version":"1.0"
 }
