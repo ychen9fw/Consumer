@@ -14,12 +14,12 @@
  *   limitations under the License.
  */
 
-package com.huawei.hms.nearbyconnectiondemo.utils;
+package com.huawei.hms.demonearbyconnection.utils;
 
 import android.view.Gravity;
 import android.widget.Toast;
 
-import com.huawei.hms.nearbyconnectiondemo.MyApplication;
+import com.huawei.hms.demonearbyconnection.MyApplication;
 
 /**
  * Display util.

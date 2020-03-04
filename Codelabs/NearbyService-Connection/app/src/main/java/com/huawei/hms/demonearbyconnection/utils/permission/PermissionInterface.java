@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.huawei.hms.nearbyconnectiondemo.utils.permission;
+package com.huawei.hms.demonearbyconnection.utils.permission;
 
 /**
  * PermissionInterface

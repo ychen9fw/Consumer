@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.huawei.hms.nearbyconnectiondemo;
+package com.huawei.hms.demonearbyconnection;
 
 import android.content.Context;
 import android.view.LayoutInflater;

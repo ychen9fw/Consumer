@@ -1,12 +1,12 @@
 {
 	"client":{
-		"cp_id":"000000000000000000",
-		"product_id":"0000000000000000000",
-		"client_id":"000000000000000000",
-		"client_secret":"0000000000000000000000000000000000000000000000000000000000000000",
-		"app_id":"000000000",
-		"package_name":"com.huawei.hms.nearbyconnectiondemo",
-		"api_key":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+		"cp_id":"890001000000000755",
+		"product_id":"9105385871708518479",
+		"client_id":"310505944381392064",
+		"client_secret":"3AFE8D3F2FA51D877FD6A633F4DC1971578960B4B443D2AE03944ED75B792FD3",
+		"app_id":"101807353",
+		"package_name":"com.huawei.hms.demonearbyconnection",
+		"api_key":"CV6GmLT73x/u1YQIaxOzYQSS+kHncEl6hYCdvXJ8kIqyvWv2zjLfE+wJ+1r3OBRNOZlP3Qf6DNieYs9dAv0SSxc+52UK"
 	},
 	"configuration_version":"1.0"
 }

@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.huawei.hms.nearbyconnectiondemo;
+package com.huawei.hms.demonearbyconnection;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -49,9 +49,9 @@ import com.huawei.hms.nearby.transfer.Data;
 import com.huawei.hms.nearby.transfer.DataCallback;
 import com.huawei.hms.nearby.transfer.TransferEngine;
 import com.huawei.hms.nearby.transfer.TransferStateUpdate;
-import com.huawei.hms.nearbyconnectiondemo.utils.ToastUtil;
-import com.huawei.hms.nearbyconnectiondemo.utils.permission.PermissionHelper;
-import com.huawei.hms.nearbyconnectiondemo.utils.permission.PermissionInterface;
+import com.huawei.hms.demonearbyconnection.utils.ToastUtil;
+import com.huawei.hms.demonearbyconnection.utils.permission.PermissionHelper;
+import com.huawei.hms.demonearbyconnection.utils.permission.PermissionInterface;
 
 import java.nio.charset.Charset;
 import java.util.ArrayList;

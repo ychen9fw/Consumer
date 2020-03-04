@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.huawei.hms.nearbyconnectiondemo.utils.permission;
+package com.huawei.hms.demonearbyconnection.utils.permission;
 
 import android.app.Activity;
 import android.content.pm.PackageManager;
